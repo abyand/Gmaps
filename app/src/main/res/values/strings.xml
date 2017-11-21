@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mapku</string>
+    <string name="google_maps_key">AIzaSyBcbndYe3q9sBztGmUdN6PJubqLjPIfTIE</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
